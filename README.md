@@ -1,4 +1,4 @@
-# Odin_flight_computer
+# Odin flight computer
 Basic flight computer for a model rocket, done with an arduino.
 
 ### Main requirments
